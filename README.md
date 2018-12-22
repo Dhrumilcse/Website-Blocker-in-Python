@@ -1,7 +1,5 @@
 # Website-Blocker-in-Python
 Building a Website Blocker in Python with basic data structures &amp; file operations to build a strong foundation of core concepts in Python.
-# Volcanoes in the United States
-With help of Python and Folium, visualise active Volcanoes in the United States. Also, create a choropleth map to demonstrate unemployment rate in the same country.
 
 ## 1. Installing dependencies
 
